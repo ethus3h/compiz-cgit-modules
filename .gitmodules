@@ -1,0 +1,27 @@
+[submodule "Eignar17/compiz-maze"]
+	path = Eignar17/compiz-maze
+	url = https://github.com/Eignar17/compiz-maze.git
+[submodule "Eignar17/compiz-monowall"]
+	path = Eignar17/compiz-monowall
+	url = https://github.com/Eignar17/compiz-monowall.git
+[submodule "Eignar17/compiz-fusion-icons"]
+	path = Eignar17/compiz-fusion-icons
+	url = https://github.com/Eignar17/compiz-fusion-icons.git
+[submodule "Eignar17/compiz-rubik"]
+	path = Eignar17/compiz-rubik
+	url = https://github.com/Eignar17/compiz-rubik.git
+[submodule "Eignar17/compiz-plugins-main"]
+	path = Eignar17/compiz-plugins-main
+	url = https://github.com/Eignar17/compiz-plugins-main.git
+[submodule "Eignar17/ccsm"]
+	path = Eignar17/ccsm
+	url = https://github.com/Eignar17/ccsm.git
+[submodule "Eignar17/backup-plugins"]
+	path = Eignar17/backup-plugins
+	url = https://github.com/Eignar17/backup-plugins.git
+[submodule "Eignar17/compiz-plugins-community"]
+	path = Eignar17/compiz-plugins-community
+	url = https://github.com/Eignar17/compiz-plugins-community.git
+[submodule "Eignar17/compiz-plugins-experimental"]
+	path = Eignar17/compiz-plugins-experimental
+	url = https://github.com/Eignar17/compiz-plugins-experimental.git
