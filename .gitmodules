@@ -25,3 +25,6 @@
 [submodule "Eignar17/compiz-plugins-experimental"]
 	path = Eignar17/compiz-plugins-experimental
 	url = https://github.com/Eignar17/compiz-plugins-experimental.git
+[submodule "smspillaz/compiz-fusion-icons"]
+	path = smspillaz/compiz-fusion-icons
+	url = https://github.com/smspillaz/compiz-fusion-icons.git
