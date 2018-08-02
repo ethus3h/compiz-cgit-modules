@@ -28,3 +28,6 @@
 [submodule "smspillaz/compiz-fusion-icons"]
 	path = smspillaz/compiz-fusion-icons
 	url = https://github.com/smspillaz/compiz-fusion-icons.git
+[submodule "Eignar17/compiz-plugin-stereo3d"]
+	path = Eignar17/compiz-plugin-stereo3d
+	url = https://github.com/Eignar17/compiz-plugin-stereo3d.git
