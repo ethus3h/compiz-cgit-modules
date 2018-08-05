@@ -31,3 +31,6 @@
 [submodule "Eignar17/compiz-plugin-stereo3d"]
 	path = Eignar17/compiz-plugin-stereo3d
 	url = https://github.com/Eignar17/compiz-plugin-stereo3d.git
+[submodule "coz/compiz-cube-models"]
+	path = coz/compiz-cube-models
+	url = https://github.com/coz/compiz-cube-models.git
