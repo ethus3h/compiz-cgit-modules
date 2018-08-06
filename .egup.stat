@@ -124,24 +124,6 @@ Change: 2018-06-13 16:44:31.248629278 -0400\
 
 
 
-  File: ./Eignar17/compiz-monowall/.git\
-
-  Size: 119       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10211596    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-06-13 16:44:31.208629125 -0400\
-
-Change: 2018-06-13 16:44:31.208629125 -0400\
-
- Birth: -\
-
-
-
   File: ./Eignar17/compiz-plugins-experimental/metadata\
 
   Size: 31        	Blocks: 3          IO Block: 2048   directory\
@@ -4498,24 +4480,6 @@ Change: 2018-06-13 16:50:27.169999991 -0400\
 
 
 
-  File: ./Eignar17/compiz-plugins-experimental/.git\
-
-  Size: 131       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10213317    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-06-13 16:50:27.099999719 -0400\
-
-Change: 2018-06-13 16:50:27.099999719 -0400\
-
- Birth: -\
-
-
-
   File: ./Eignar17/compiz-plugins-experimental/README.md\
 
   Size: 142       	Blocks: 2          IO Block: 512    regular file\
@@ -6244,24 +6208,6 @@ Change: 2018-08-02 02:54:07.667760552 -0400\
 
 
 
-  File: ./Eignar17/compiz-plugin-stereo3d/.git\
-
-  Size: 126       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 15729526    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-08-02 02:54:07.657760334 -0400\
-
-Change: 2018-08-02 02:54:07.657760334 -0400\
-
- Birth: -\
-
-
-
   File: ./Eignar17/compiz-plugins-main/images\
 
   Size: 4         	Blocks: 1          IO Block: 512    directory\
@@ -6383,24 +6329,6 @@ Access: 2018-06-13 16:46:03.998983379 -0400\
 Modify: 2018-06-13 16:46:03.998983379 -0400\
 
 Change: 2018-06-13 16:46:03.998983379 -0400\
-
- Birth: -\
-
-
-
-  File: ./Eignar17/compiz-plugins-main/.git\
-
-  Size: 123       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10211886    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-06-13 16:46:03.978983302 -0400\
-
-Change: 2018-06-13 16:46:03.978983302 -0400\
 
  Birth: -\
 
@@ -11266,24 +11194,6 @@ Change: 2018-06-13 16:46:46.089144895 -0400\
 
 
 
-  File: ./Eignar17/ccsm/.git\
-
-  Size: 108       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10212314    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.064840693 -0400\
-
-Modify: 2018-06-13 16:46:46.019144625 -0400\
-
-Change: 2018-06-13 16:46:46.019144625 -0400\
-
- Birth: -\
-
-
-
   File: ./Eignar17/ccsm/images\
 
   Size: 22        	Blocks: 3          IO Block: 1536   directory\
@@ -14501,24 +14411,6 @@ Access: 2018-06-13 16:51:07.970158813 -0400\
 Modify: 2018-06-13 16:44:02.778521141 -0400\
 
 Change: 2018-06-13 16:44:02.778521141 -0400\
-
- Birth: -\
-
-
-
-  File: ./Eignar17/compiz-maze/.git\
-
-  Size: 115       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10211731    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.064840693 -0400\
-
-Modify: 2018-06-13 16:44:02.738520989 -0400\
-
-Change: 2018-06-13 16:44:02.738520989 -0400\
 
  Birth: -\
 
@@ -19001,24 +18893,6 @@ Access: 2018-06-13 16:51:08.260159943 -0400\
 Modify: 2018-06-13 16:49:00.709664382 -0400\
 
 Change: 2018-06-13 16:49:00.709664382 -0400\
-
- Birth: -\
-
-
-
-  File: ./Eignar17/compiz-plugins-community/.git\
-
-  Size: 128       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10212698    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-06-13 16:49:00.359663028 -0400\
-
-Change: 2018-06-13 16:49:00.359663028 -0400\
 
  Birth: -\
 
@@ -24329,24 +24203,6 @@ Access: 2018-06-13 16:51:06.300152308 -0400\
 Modify: 2018-06-13 16:47:08.619231541 -0400\
 
 Change: 2018-06-13 16:47:08.619231541 -0400\
-
- Birth: -\
-
-
-
-  File: ./Eignar17/backup-plugins/.git\
-
-  Size: 118       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10212500    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.064840693 -0400\
-
-Modify: 2018-06-13 16:47:08.549231271 -0400\
-
-Change: 2018-06-13 16:47:08.549231271 -0400\
 
  Birth: -\
 
@@ -30400,24 +30256,6 @@ Change: 2018-06-13 16:45:10.378778345 -0400\
 
 
 
-  File: ./Eignar17/compiz-fusion-icons/.git\
-
-  Size: 123       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10211631    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.064840693 -0400\
-
-Modify: 2018-06-13 16:45:10.328778154 -0400\
-
-Change: 2018-06-13 16:45:10.328778154 -0400\
-
- Birth: -\
-
-
-
   File: ./Eignar17/compiz-fusion-icons/AUTHORS\
 
   Size: 3211      	Blocks: 4          IO Block: 3584   regular file\
@@ -33424,24 +33262,6 @@ Change: 2018-06-13 16:45:21.388820373 -0400\
 
 
 
-  File: ./Eignar17/compiz-rubik/.git\
-
-  Size: 116       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10212101    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-06-13 16:45:21.348820222 -0400\
-
-Change: 2018-06-13 16:45:21.348820222 -0400\
-
- Birth: -\
-
-
-
   File: ./Eignar17/compiz-rubik/rubik-internal.h\
 
   Size: 4303      	Blocks: 5          IO Block: 4608   regular file\
@@ -33599,24 +33419,6 @@ Access: 2018-06-13 17:03:25.943367756 -0400\
 Modify: 2018-06-13 17:03:25.943367756 -0400\
 
 Change: 2018-06-13 17:03:25.943367756 -0400\
-
- Birth: -\
-
-
-
-  File: ./smspillaz/compiz-fusion-icons/.git\
-
-  Size: 124       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10213723    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:39:22.074840775 -0400\
-
-Modify: 2018-06-13 17:03:25.903366839 -0400\
-
-Change: 2018-06-13 17:03:25.903366839 -0400\
 
  Birth: -\
 
@@ -36502,24 +36304,6 @@ Change: 2018-06-13 16:39:58.977608810 -0400\
 
 
 
-  File: ./.git\
-
-  Size: 80        	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 10211387    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:31:57.050005920 -0400\
-
-Modify: 2018-06-13 16:39:58.947608700 -0400\
-
-Change: 2018-06-13 16:39:58.947608700 -0400\
-
- Birth: -\
-
-
-
   File: ./coz\
 
   Size: 3         	Blocks: 1          IO Block: 512    directory\
@@ -36569,24 +36353,6 @@ Access: 2018-08-05 03:44:19.246911864 -0400\
 Modify: 2018-08-05 03:44:19.446913073 -0400\
 
 Change: 2018-08-05 03:44:19.446913073 -0400\
-
- Birth: -\
-
-
-
-  File: ./coz/compiz-cube-models/.git\
-
-  Size: 117       	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 15738405    Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:44:27.026958714 -0400\
-
-Modify: 2018-08-05 03:44:18.766908964 -0400\
-
-Change: 2018-08-05 03:44:18.766908964 -0400\
 
  Birth: -\
 
